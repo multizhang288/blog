@@ -10,6 +10,6 @@ main:
   - name: About
     url: about/
     weight: 20
-  - name: 测试
+  - name: 章节
     url: Chapter/
     weight: 10
