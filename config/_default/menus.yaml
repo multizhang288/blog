@@ -11,5 +11,5 @@ main:
     url: about/
     weight: 20
   - name: 测试
-    url: /
+    url: Chapter/
     weight: 10
