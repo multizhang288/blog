@@ -5,7 +5,7 @@
 
 main:
   - name: 主页
-    url: post/
+    url: /
     weight: 10
   - name: About
     url: about/
