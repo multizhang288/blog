@@ -43,8 +43,7 @@ categories:
 
 ## 无为
 
-![sleep](/static/sleep.jpg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![sleep](/static/sleep.png)
 肩吾问于连叔曰：“吾闻言于接舆，大而无当，往而不返。吾惊怖其言，犹河汉而无极也；大有径庭，不近人情焉。”
 
 　　连叔曰：“其言谓何哉？”
