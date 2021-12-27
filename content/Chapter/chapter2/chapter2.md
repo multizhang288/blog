@@ -1,4 +1,3 @@
-widget: about.avatar
 ---
 title: 卫秋公
 subtitle: 《开阳异闻类说·诡术》
